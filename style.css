@@ -86,9 +86,9 @@ body {
     top: 0;
     left: 0;
     border-top: 100px solid transparent;
-    border-right: 150px solid #ed5959;
-    border-bottom: 100px solid #ed4b4b;
-    border-left: 150px solid #f01c1c;
+    border-right: 150px solid #f34444;
+    border-bottom: 100px solid #f34444;
+    border-left: 150px solid #ed5959;
     z-index: 3;
 }
 
